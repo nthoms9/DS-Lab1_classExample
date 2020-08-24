@@ -22,7 +22,7 @@ student student1;
 student student2;
 
 // Values are set to student 1.
-student1.setStudentName("Bob");
+student1.setStudentName("Tim");
 student1.setStudentId("1234");
 student1.setCourseInfo("C++", "Fall 2019", float(95.1));
 student1.setCourseInfo("Data Structures", "Spring 2020", float(79.3));
